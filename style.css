@@ -1,0 +1,55 @@
+
+    
+
+*{
+    background-color:rgb(202, 190, 210);
+    margin:25px;
+    padding:0;
+    box-sizing:border-box;
+    
+}
+
+.container{
+  
+    min-height:100vh;
+   margin-left:125px;
+   margin-right:125px;
+   
+
+
+}
+.content{
+   
+    margin:0 auto;
+}
+.image_container{
+    width:250px;
+    height:320px;
+    margin-left:400px;
+    margin-top:50px;
+  
+}
+.image{
+    margin-left:25px;
+    margin-top:50px;
+  
+    
+   
+
+}
+.abdul_kalam{
+    text-align:center;
+    margin-top:50px;
+    padding-bottom:25px;
+}
+iframe{
+    width:600px;
+    height:500px;
+}
+
+
+
+   
+
+
+    
